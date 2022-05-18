@@ -1,0 +1,52 @@
+*{
+    background-color: #c9a0dc;
+    font-family: 'Lalezar', cursive;
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+.caja{
+    background-color: white;
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    margin-top: 70px;
+    border-radius: 10%;
+    
+}
+#foto{
+    height: 180px;
+    width: 180px;
+    margin-top: 25px;
+    margin-left: 120px;
+    margin-bottom: 50px;
+    border-radius: 10%;
+}
+input{
+    background-color: white;
+    font-family: 'Lalezar', cursive;
+    font-family: 'Roboto Flex', sans-serif;
+    color: #8b85c7;
+    border-radius: 30%;
+    width: 300px;
+    margin-left: 50px;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid #DBE1EB;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -o-border-radius: 4px;
+    background: #FFFFFF;
+    background: linear-gradient(left, #FFFFFF, #F7F9FA);
+    background: -moz-linear-gradient(left, #FFFFFF, #F7F9FA);
+    background: -webkit-linear-gradient(left, #FFFFFF, #F7F9FA);
+    background: -o-linear-gradient(left, #FFFFFF, #F7F9FA);
+       
+
+}
+.input1{
+    height: 50px;
+    margin-bottom: 15px;
+}
+.input2{
+    height: 100px;
+}
